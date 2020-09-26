@@ -6,4 +6,4 @@ It's a loaded with modifications and fixed fork of [gunner47](github.com/gunner4
 So - most of the wiring, hardware, etc. explanations I'll leave to the source since I haven't done significant changes to the hardware or apk part. 
 However, it isn't in English - so feel free to ask questions or translations of confusing moments.
 
-[A Result Video](https://www.youtube.com/watch?v=7daSNUp0t-I)
+[A Result Video](https://www.youtube.com/watch?v=Xpdi1XXMues)
