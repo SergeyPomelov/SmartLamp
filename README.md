@@ -1,4 +1,6 @@
-# SmartLamp
+# Smart Lamp
+![Lamp](https://i.ibb.co/pR0Z6W9/lamp.jpg)
+
 NodeMcu Based Smart Neopixels Array WiFi Lamp's Firmware.
 
 It's a loaded with modifications and fixed fork of [gunner47](github.com/gunner47/gyverlamp) firmware for a [Smart Fire Lamp](https://alexgyver.ru/gyverlamp/) project.
